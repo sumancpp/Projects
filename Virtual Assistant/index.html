@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="logo.png">
+
+</head>
+<body>
+    <div class="app">
+        <h1>To-Do List</h1>
+
+        <div class="input-container">
+            <input type="text" id="new-task" placeholder="Enter new task">
+            <select id="category">
+                <option value="Work">Work</option>
+                <option value="Personal">Personal</option>
+                <option value="Urgent">Urgent</option>
+            </select>
+            <select id="priority">
+                <option value="Low">Low</option>
+                <option value="Medium">Medium</option>
+                <option value="High">High</option>
+            </select>
+            <input type="date" id="due-date">
+            <input type="time" id="due-time">
+            <button id="add-task-btn">Add Task</button>
+        </div>
+
+        <div class="search-container">
+            <input type="text" id="search-task" placeholder="Search tasks...">
+        </div>
+
+        <ul id="task-list"></ul>
+
+        <div class="filters">
+            <button data-filter="all" class="filter active">All</button>
+            <button data-filter="active" class="filter">Active</button>
+            <button data-filter="completed" class="filter">Completed</button>
+        </div>
+
+        <div class="toggle-container">
+            <button
+              class="dark-mode-btn"
+              id="darkModeToggle"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                viewBox="0 0 24 24"
+                width="24"
+                height="24"
+                color="darkblue"
+                fill="none"
+              >
+                <path
+                  d="M21.5 14.0784C20.3003 14.7189 18.9301 15.0821 17.4751 15.0821C12.7491 15.0821 8.91792 11.2509 8.91792 6.52485C8.91792 5.06986 9.28105 3.69968 9.92163 2.5C5.66765 3.49698 2.5 7.31513 2.5 11.8731C2.5 17.1899 6.8101 21.5 12.1269 21.5C16.6849 21.5 20.503 18.3324 21.5 14.0784Z"
+                  stroke="currentColor"
+                  stroke-width="1.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </button>
+          </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
