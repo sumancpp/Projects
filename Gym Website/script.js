@@ -14,6 +14,7 @@ menu.onclick = () => {
 
 // typing code
 
+
 const typed = new Typed('.multiple-text', {
     strings: ['Physical Fitness', 'Weight Gain','Strength Training', 'Fat Lose', 'Weight Lifting', 'Running' ],
     typeSpeed : 60,
