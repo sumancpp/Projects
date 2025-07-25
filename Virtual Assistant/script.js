@@ -3,6 +3,7 @@ let content = document.querySelector("#content");
 let voice = document.querySelector("#voice");
 
 
+
 // Load voices properly, ensuring all voices are available before selecting one
 function loadVoices() {
     return new Promise((resolve) => {
