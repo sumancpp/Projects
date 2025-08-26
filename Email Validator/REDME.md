@@ -19,4 +19,6 @@ JavaScript (Vanilla)
 
 📌 Features
 
-✔️ Validates email format in real-time  ✔️ Instant feedback with visual indicators  ✔️ Simple and responsive design
+✔️ Validates email format in real-time  
+✔️ Instant feedback with visual indicators  
+✔️ Simple and responsive design
