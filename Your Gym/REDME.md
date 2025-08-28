@@ -1,4 +1,4 @@
-🏋️‍♂️ Gym Website
+# 🏋️‍♂️ Gym Website
 
 🚀 Excited to share my latest project: A fully functional Gym Website built from scratch using HTML, CSS, and JavaScript! 💻💪
 
@@ -6,10 +6,10 @@ From designing a sleek, responsive layout to adding interactive features like me
 
 ✨ Key Features
 
-✅ Responsive Design – Works seamlessly across devices
-✅ Interactive Elements – Engaging UI with functional forms
-✅ Smooth Animations – Modern and attractive transitions
-✅ User-Friendly Navigation – Easy to explore and navigate
+✅ Responsive Design – Works seamlessly across devices  
+✅ Interactive Elements – Engaging UI with functional forms  
+✅ Smooth Animations – Modern and attractive transitions  
+✅ User-Friendly Navigation – Easy to explore and navigate  
 
 🔗 Live Demo
 
