@@ -4,11 +4,11 @@ A simple and efficient web-based background remover built using HTML, CSS, and J
 
 ## ✨ Features
 
-✅ Upload an image
-✅ Instantly remove the background
-✅ Preview Before & After
-✅ Download result as PNG (transparent background)
-✅ Responsive design with smooth UI animations
+✅ Upload an image  
+✅ Instantly remove the background  
+✅ Preview Before & After  
+✅ Download result as PNG (transparent background)  
+✅ Responsive design with smooth UI animations  
 
 ## 🛠️ Tech Stack
 
