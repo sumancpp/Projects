@@ -4,9 +4,9 @@ A simple Weather App built using HTML and JavaScript, which fetches real-time we
 
 ## 🚀 Features
 
-✔ Fetch real-time weather data for any city
-✔ User-friendly and responsive design
-✔ Displays temperature, weather conditions, and more
+✔ Fetch real-time weather data for any city  
+✔ User-friendly and responsive design  
+✔ Displays temperature, weather conditions, and more  
 
 ## 💻 Tech Stack
 
