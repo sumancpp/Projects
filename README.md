@@ -50,8 +50,8 @@ You can explore them to understand different concepts like:
 
 I’m always open to feedback, collaboration, or just tech talks!  
  
-- 🐙 **GitHub:** [Your GitHub Profile](https://github.com/sumancpp)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/suman-maity-b84879292/)
+- 🐙 **GitHub:** [My GitHub Profile](https://github.com/sumancpp)  
+- 💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/suman-maity-b84879292/)
 
 ---
 
