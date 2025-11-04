@@ -27,7 +27,7 @@ And I'm proud to say it's now **live on Spotify! 🎵**
 ---
 
 ## 📸 Preview
-![Spotify Clone Screenshot](file:///home/suman/Pictures/Screenshots/Screenshot%20from%202025-11-04%2019-02-15.png)
+![Spotify Clone Screenshot](https://i.postimg.cc/8zybfGN2/Screenshot-from-2025-11-04-19-02-15.png)
 
 ---
 
