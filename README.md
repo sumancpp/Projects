@@ -21,6 +21,7 @@ Each project here taught me something new — from APIs and animations to DOM ma
 | 🔟 | **Virtual Assistant** 🤖 | A voice-controlled assistant that responds to your commands. | [🔗 Live Demo](https://sumanmaityy.github.io/My-Virtual-Assistant/) |
 | 11️⃣ | **Weather App** ⛅ | Real-time weather updates with API integration. | [🔗 Live Demo](https://weather-app-by-suman.netlify.app/) |
 | 12️⃣ | **Your Gym** 💪 | A modern fitness website landing page for gym enthusiasts. | [🔗 Live Demo](https://your-gym-center.netlify.app/) |
+| 13️⃣ | **Spotify Clone** 🎶 | A responsive Spotify web app built using HTML, CSS, and JavaScript — showcasing my love for music and coding. | [🔗 Live Demo](https://stately-llama-c0f7e4.netlify.app/) |
 
 ---
 
