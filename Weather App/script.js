@@ -40,8 +40,6 @@ document.addEventListener('DOMContentLoaded', function() {
             alert('Error fetching weather data');
         }
     }
-
-    
     async function updateAnotherPlacesWeather() {
         const cities = ['Darjeeling', 'Goa', 'Hyderabad', 'Shimla', 'Bangalore', 'Manali'];
         const tbody = document.querySelector('tbody');  
