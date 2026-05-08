@@ -1,4 +1,4 @@
-const key = "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";
+const key = "<Your Api Key>";
 const inputText = document.getElementById("input");
 const image = document.getElementById("image");
 const GenBtn = document.getElementById("btn");
