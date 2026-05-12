@@ -26,7 +26,7 @@ submitBtn.addEventListener("click", async (e) => {
             }
         }
 
-        resultCont.innerHTML = str;
+    resultCont.innerHTML = str;
     } catch (error) {
         console.error('Error fetching the email validation:', error);
         resultCont.innerHTML = `<div>Error loading email validation data.</div>`;
