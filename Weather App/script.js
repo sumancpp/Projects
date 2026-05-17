@@ -6,11 +6,10 @@ document.addEventListener('DOMContentLoaded', function() {
         const options = {
             method: 'GET',
             headers: {
-                'x-rapidapi-key': '91862230c7msha13286d74f10ac0p164d7ejsn41e6c8472a88',
+                'x-rapidapi-key': 'Your Api Key',
                 'x-rapidapi-host': 'weatherapi-com.p.rapidapi.com'
             }
         };
-
         try {
             const response = await fetch(url, options);
             const result = await response.json();  
